@@ -13,7 +13,7 @@
    * 演示视频B站链接：[https://share.weiyun.com/1CAmLIL5](https://share.weiyun.com/1CAmLIL5)
    * 演示视频文件：[https://share.weiyun.com/1CAmLIL5](https://share.weiyun.com/1CAmLIL5)
    * window包(由于资产塞太多了，导致包非常大，有13个g):[https://pan.baidu.com/s/1_zPW1-oYjM1s8dHWuIMIiA](https://pan.baidu.com/s/1_zPW1-oYjM1s8dHWuIMIiA)  ``` 提取码：b3kx ```
-   * 项目工程文件：  
+   * 项目工程文件：[https://github.com/ThreeShadesDK/ShooterGame.git](https://github.com/ThreeShadesDK/ShooterGame.git)
      
   
    __基于虚幻引擎的热暴露数据交互展示平台__：
