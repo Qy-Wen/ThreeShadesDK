@@ -11,10 +11,10 @@
 
    __使用UE开发的科幻风格第三人称射击类游戏__：  
    * 项目工程文件：[https://github.com/ThreeShadesDK](https://github.com/ThreeShadesDK)
-   * 演示视频：[https://github.com/ThreeShadesDK](https://github.com/ThreeShadesDK)
+   * 演示视频以及window包：[https://github.com/ThreeShadesDK](https://github.com/ThreeShadesDK)
   
    __基于虚幻引擎的热暴露数据交互展示平台__：
    * 项目工程文件：[https://github.com/ThreeShadesDK](https://github.com/ThreeShadesDK)
-   * 演示视频：[https://github.com/ThreeShadesDK](https://github.com/ThreeShadesDK)
+   * 演示视频以及window包：[https://share.weiyun.com/cElRQi3U](https://share.weiyun.com/cElRQi3U)
 
 
