@@ -20,6 +20,5 @@
    * 已托管到云平台，可通过网页端访问（谷歌浏览器最佳）: [https://www.pingxingyun.com/console/api/poc/hostAppli/start?appliId=1178801963819597824](https://www.pingxingyun.com/console/api/poc/hostAppli/start?appliId=1178801963819597824)
    * 演示视频文件以及window包：[https://share.weiyun.com/cElRQi3U](https://share.weiyun.com/cElRQi3U)
    * 项目工程文件：[https://github.com/ThreeShadesDK/CesiumHeatExposure.git](https://github.com/ThreeShadesDK/CesiumHeatExposure.git)
-   
 
 
