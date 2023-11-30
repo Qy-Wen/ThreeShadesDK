@@ -1,6 +1,6 @@
 # 欢迎来访三藏的技术主页
 ---
-### 主要涉及领域包括：C++/UE/Cesium for Unreal
+### C++/UE/Cesium for Unreal
 ---
 - ### 💬 腾讯客户端开发公开课作业
    * 作业一——使用UE进行apk打包: [https://share.weiyun.com/KVfDM0qx](https://share.weiyun.com/KVfDM0qx)
