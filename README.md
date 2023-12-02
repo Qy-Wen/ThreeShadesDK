@@ -7,7 +7,8 @@
     * 安卓包及手机运行视频： [https://share.weiyun.com/KVfDM0qx](https://share.weiyun.com/KVfDM0qx)
   
    __作业二——UMG界面设计 (个人信息、计分信息、排行榜等)__:
-  项目工程文件及说明： [https://github.com/ThreeShadesDK](https://github.com/ThreeShadesDK)
+    * 演示视频B站链接： [https://www.bilibili.com/video/BV1u64y1j7Ea/](https://www.bilibili.com/video/BV1u64y1j7Ea/)
+    * 项目工程文件及说明： [https://github.com/ThreeShadesDK](https://github.com/ThreeShadesDK)
 
 - ### 💬 个人项目
 
