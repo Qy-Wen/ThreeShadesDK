@@ -10,7 +10,7 @@
 - ### 💬 个人项目
 
    __使用UE开发的科幻风格第三人称射击类游戏__：
-   * 演示视频B站链接：[https://www.bilibili.com/video/BV11Q4y1x799/?spm_id_from=333.999.0.0&vd_source=af6ca158530384a11af9a523588e0072](https://www.bilibili.com/video/BV11Q4y1x799/?spm_id_from=333.999.0.0&vd_source=af6ca158530384a11af9a523588e0072)
+   * 演示视频B站链接：[https://www.bilibili.com/video/BV11Q4y1x799/](https://www.bilibili.com/video/BV11Q4y1x799/)
    * 演示视频文件：[https://share.weiyun.com/1CAmLIL5](https://share.weiyun.com/1CAmLIL5)
    * window包(由于资产塞太多了，导致包非常大，有13个g):[https://pan.baidu.com/s/1_zPW1-oYjM1s8dHWuIMIiA](https://pan.baidu.com/s/1_zPW1-oYjM1s8dHWuIMIiA)  ``` 提取码：b3kx ```
    * 项目工程文件：[https://github.com/ThreeShadesDK/ShooterGame.git](https://github.com/ThreeShadesDK/ShooterGame.git)
